@@ -15,7 +15,7 @@ public class Main {
 	 * @param args the arguments
 	 */
 	public static void main(String[] args) {
-		ControllerCalculadora cont = new ControllerCalculadora();
+		ControllerCalculadora contr = new ControllerCalculadora();
  
 	}
 }
