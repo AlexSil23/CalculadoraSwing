@@ -2,7 +2,7 @@
 
 Este proyecto consiste en una calculadora gráfica desarrollada en **Java Swing** que permite realizar operaciones aritméticas básicas y manejar memoria para guardar y recuperar valores.
 
-![Captura de pantalla de la calculadora](img/imgCalculadora.png)
+![Captura de pantalla de la calculadora](M3_02_Alexander_Silvera_Collazo/src/main/resources/imgCalculadora.png)
 
 ## Funcionalidades principales
 
